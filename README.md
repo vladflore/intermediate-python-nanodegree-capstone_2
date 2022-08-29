@@ -20,10 +20,11 @@ Both the image and quote files are automatically discovered once they have been 
 
 ### Install project dependencies
 
-1. Create a virtual environment
+1. Create a virtual environment and activate it
 
 ```shell
 python3 -m venv myenv
+source myenv/bin/activate
 ```
 
 2. Install project dependencies
